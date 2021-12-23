@@ -1,4 +1,3 @@
-%%writefile /opt/conda/lib/python3.7/site-packages/detectron2/structures/masks.py
 # Copyright (c) Facebook, Inc. and its affiliates.
 import copy
 import itertools
